@@ -1,0 +1,22 @@
+
+body {
+        background-image: url(bg.jpg);
+        background-size: cover;
+        background-position: center;
+        
+}
+
+.table {
+    background-color: transparent;
+}
+
+.cn {
+    font-weight: bold;
+    color: white;
+    background-color: black; 
+    display: block;
+    margin: 20px auto; 
+    padding: 10px 20px; 
+    text-decoration: none;
+}
+
